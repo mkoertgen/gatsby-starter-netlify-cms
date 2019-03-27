@@ -69,8 +69,8 @@ module.exports = {
         // - https://www.gatsbyjs.org/packages/gatsby-plugin-google-analytics/#how-to-use
         resolve: 'gatsby-plugin-google-analytics',
         options: {
-          // TODO: replace "UA-XXXXXXXXX-X" with your own Tracking ID
-          trackingId: "UA-XXXXXXXXX-X",
+          // TODO: test tracking id, replace with production id
+          trackingId: "UA-137050589-1",
         },
         'gatsby-plugin-purgecss', // must be after other CSS plugins
         'gatsby-plugin-netlify', // make sure to keep it last in the array
