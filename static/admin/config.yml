@@ -2,6 +2,11 @@ backend:
   name: git-gateway
   branch: master
 
+# works with GitHub only, cf.: https://www.netlifycms.org/docs/configuration-options/#publish-mode
+publish_mode: editorial_workflow
+# cf.: https://www.netlifycms.org/docs/configuration-options/#site-url
+site_url: https://vibrant-bartik-e15ff4.netlify.com
+
 media_folder: static/img
 public_folder: /img
 
