@@ -71,6 +71,7 @@ module.exports = {
         options: {
           // TODO: test tracking id, replace with production id
           trackingId: "UA-137050589-1",
+          anonymize: true
         },
         'gatsby-plugin-purgecss', // must be after other CSS plugins
         'gatsby-plugin-netlify', // make sure to keep it last in the array
