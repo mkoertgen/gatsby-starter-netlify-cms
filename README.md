@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c962dc2c-c0f6-41a5-9984-45a53c7c14fa/deploy-status)](https://app.netlify.com/sites/vibrant-bartik-e15ff4/deploys)
+
 # Gatsby + Netlify CMS Starter
 
 **Note:** This starter uses the [Gatsby v2 Beta](https://www.gatsbyjs.org/blog/2018-06-16-announcing-gatsby-v2-beta-launch/).
