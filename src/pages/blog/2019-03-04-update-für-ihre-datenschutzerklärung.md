@@ -11,4 +11,4 @@ tags:
   - foo
   - bar
 ---
-Lorem ipsum ....
+Test content
