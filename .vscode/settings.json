@@ -1,0 +1,4 @@
+{
+    // cf.: https://code.visualstudio.com/docs/editor/integrated-terminal#_windows
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\bash.exe"
+}
